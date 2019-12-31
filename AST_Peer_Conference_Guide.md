@@ -624,7 +624,7 @@ The AST provides [grant funding for peer conferences ](https://www.associationfo
 <h3 id="our-community">Our Community</h3>
 
 
-We have created this guide from our own hard-won truths and that of the community of software testing peer conference organisers. We are extremely grateful to [CEWT](https://www.performance-workshop.org), [DEWT](https://dewt.wordpress.com/about/),[ LAWST](http://www.workroom-productions.com/LEWT.html), [LEWT](http://www.workroom-productions.com/LEWT.html), [MEWT](https://mewtblog.wordpress.com/about/), [NWEWT](https://nwewt.wordpress.com/about/), [SWET](https://www.meetup.com/Swedish-Workshop-on-Exploratory-Testing/), TWST,and [WOPR](https://www.performance-workshop.org)  for sharing their approaches, advice, and personal experience publicly and privately.
+We have created this guide from our own hard-won truths and that of the community of software testing peer conference organisers. We are extremely grateful to [CEWT](https://cewtblog.blogspot.com/), [DEWT](https://dewt.wordpress.com/about/),[LAWST](https://lawst.com/), [LEWT](http://www.workroom-productions.com/LEWT.html), [MEWT](https://mewtblog.wordpress.com/about/), [NWEWT](https://nwewt.wordpress.com/about/), [SWET](https://www.meetup.com/Swedish-Workshop-on-Exploratory-Testing/), TWST,and [WOPR](https://www.performance-workshop.org)  for sharing their approaches, advice, and personal experience publicly and privately.
 
 We also thank our reviewers for their insightful and helpful comments on the first versions of this guide: Fiona Charles, Lee Hawkins, Duncan Nisbet, Adrian Segar, Karlo Smid, and Elizabeth Zagroba.
 
@@ -638,7 +638,7 @@ More depth and alternative perspectives on pretty much all of the material in th
 *   [Organising peer conferences](http://erik.brickarp.se/2017/04/peer-conferences-part-1.html) (Erik Brickarp)
 *   [A Deeper Community of Practice by Paul Holland](http://www.shino.de/2011/08/09/cast-2011-build-a-deeper-community-of-practice-how-to-organize-a-peer-conference/) (Markus Gärtner)
 *   [Organising peer conferences](https://conference.eurostarsoftwaretesting.com/wp-content/uploads/T5-Paul-Holland-How-to-Oragnize-a-Peer-Conference.pdf) (Paul Holland)
-*   [The LAWST Handbook](http://www.workroom-productions.com/LEWT.html) (Cem Kaner, Brian Lawrence)
+*   [The LAWST Handbook](http://www.kaner.com/pdfs/lawsthb.pdf) (Cem Kaner, Brian Lawrence)
 *   [Organising LEWT](http://workroomprds.github.io/LEWT/) (James Lyndsay)
 *   [About Peer Conferences](https://www.conferencesthatwork.com/index.php/about-peer-conferences/) (Adrian Segar)
 *   [Survey of peer conference organisers](https://qahiccupps.blogspot.com/2015/07/trying-to-be-cewt.html) (James Thomas)
