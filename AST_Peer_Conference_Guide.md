@@ -101,7 +101,7 @@ If you’re confident that you know what you want and are just looking for a bas
 <h3 id="getting-off-the-ground">Getting off the Ground</h3>
 
 
-Start with the _why_. Say what you want to achieve with your conference and then base other decisions on it. For example, [CEWT](cewtblog.blogspot.com/)’s mission statement is this:
+Start with the _why_. Say what you want to achieve with your conference and then base other decisions on it. For example, [CEWT](https://cewtblog.blogspot.com/)’s mission statement is this:
 
 _CEWT is an exploratory peer workshop. We take the view that discussions are more interesting than lectures. We enjoy diverse ideas, and limit some activities in order to work with more ideas. \
  \
