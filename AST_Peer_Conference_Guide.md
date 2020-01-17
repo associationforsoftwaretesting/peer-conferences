@@ -636,6 +636,7 @@ More depth and alternative perspectives on pretty much all of the material in th
 
 
 *   [Organising peer conferences](http://erik.brickarp.se/2017/04/peer-conferences-part-1.html) (Erik Brickarp)
+*   [Ten Simple Rules for Organizing an Unconference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4310607/) (Aidan Budd et al)
 *   [A Deeper Community of Practice by Paul Holland](http://www.shino.de/2011/08/09/cast-2011-build-a-deeper-community-of-practice-how-to-organize-a-peer-conference/) (Markus Gärtner)
 *   [Organising peer conferences](https://conference.eurostarsoftwaretesting.com/wp-content/uploads/T5-Paul-Holland-How-to-Oragnize-a-Peer-Conference.pdf) (Paul Holland)
 *   [The LAWST Handbook](http://www.kaner.com/pdfs/lawsthb.pdf) (Cem Kaner, Brian Lawrence)
@@ -990,5 +991,3 @@ Retrospective
 *   You can use any retrospective format you like. 
 *   Please make sure that your format encourages all to participate (e.g. writing down comments is easier for some to get their voice heard).
 *   Historically we have used a Stop, Start, Continue format.
-
-<!-- Docs to Markdown version 1.0β17 -->
