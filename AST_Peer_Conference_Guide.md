@@ -48,7 +48,10 @@
     &nbsp;&nbsp; [Note-taking](#note-taking)\
     &nbsp;&nbsp; [Facilitation](#facilitation)
 
-[Afterwards](#afterwards)
+[Afterwards](#afterwards)\
+    &nbsp;&nbsp; [Retrospective](#retrospective)\
+    &nbsp;&nbsp; [Grumbles](#grumbles)\
+    &nbsp;&nbsp; [Go Again](#going-again)
 
 [Acknowledgements](#acknowledgements)\
     &nbsp;&nbsp; [The Association for Software Testing](#the-association-for-software-testing)\
@@ -537,25 +540,42 @@ Facilitation is a huge topic. As a starting point, we recommend [Paul Holland on
 
 <h2 id="afterwards">Afterwards</h2>
 
-_Congratulations_! It’s over and although it wasn’t perfect you can and should be proud of yourself. You have provided a bunch of motivated people with an opportunity to come together for learning, to make contacts, and to have fun. That’s valuable. Well done.
+_Congratulations_! It’s over and although it wasn’t perfect you can and should be proud of yourself. You have provided a bunch of motivated people with an opportunity to come together for learning, to make contacts, and to have fun. That’s valuable. Well done!
 
+The participants helped to make it happen too, though, and you should consider thanking them for their time, energy, and ideas. One of our reviewers writes to each of them, with a note of something they said that was inspiring or interesting.
+
+<h3 id="retrospective">Retrospective</h3>
+    
 Right now, you probably don’t want to do another one but it’s still worth having some kind of [retrospective](https://retromat.org/blog/what-is-a-retrospective/) to think about how it went, what was good and bad, what you’d like to do again and what to avoid in future. 
 
 You should definitely do this as an organising team. You could consider scheduling it as part of your event too, and having your participants give you their perspectives. Adrian Segar provides a [personal introspective card](http://www.conferencesthatwork.com/wp-content/uploads/2009/10/Personal-introspective-questions-card.pdf) that could help with this.
 
 Be honest with yourself. The kind of conference you’ve organised suggests that you will be, and that you want to improve things next time. A retro is a great opportunity to enable that.
 
-Maybe also thank the participants for their time, energy, and ideas. One of our reviewers writes to each of them, with a note of something they said that was inspiring or interesting.
+<h3 id="grumbles">Grumbles</h3>
 
-You’ll think of other things that you’d like to have done different over the next few weeks and months. Note them down because they’ll be useful next time too.
+Some of the retro feedback might be challenging, perhaps because you disagree with it or because it's critical or because you're so heavily invested in the things that you chose to do. Outside of the retro you might also find that participants complain about things to you directly or you overhear them moaning to each other about the food, the venue, the weather, and other aspects of the day. It'd be easy to find this demotivating.
+
+In all cases, we've found that assuming good intent on the part of the participants helps to overcome those issues. (_Helps_.) Some other things that can assist in dealing with this kind of thing:
+
+* Expect that it might happen and be pleasantly surprised when it doesn’t.
+* Remember that you can't please everyone.
+* Credit yourself with your achievements in organising this event.
+* Deliberately try to accept all comments gracefully.
+* Treat the comment as a _suggestion_ for a future event not a criticism of this one.
+* Review the comment later, when you're in a position to take a broader perspective.
+
+You'll need some resilience if you're putting yourself out there but by getting this far you've shown that you have it!
+
+<h3 id="going-again">Go Again</h3>
+
+Positive and negative suggestions from others aside, you will youself think of things that you’d like to have done different over the next few weeks and months. Note them down because they’ll be useful next time too.
 
 And there will be a next time, _won’t there_?
 
 <h2 id="acknowledgements">Acknowledgements</h2>
 
-
 <h3 id="the-association-for-software-testing">The Association for Software Testing</h3>
-
 
 Our mission: _The [Association for Software Testing (AST)](https://www.associationforsoftwaretesting.org/) is dedicated to advancing the understanding of the science and practice of software testing according to Context-Driven principles._
 
@@ -563,22 +583,17 @@ We are an international non-profit professional association with members in over
 
 <h4 id="ast-grants-for-peer-conferences">AST Grants for Peer Conferences</h4>
 
-
 The AST provides [grant funding for peer conferences ](https://www.associationforsoftwaretesting.org/programs/ast-grant-program/)that are non-profit and align with its mission.
 
 <h3 id="our-community">Our Community</h3>
 
-
 We have created this guide from our own hard-won truths and that of the community of software testing peer conference organisers. We are extremely grateful to [CEWT](https://cewtblog.blogspot.com/), [DEWT](https://dewt.wordpress.com/about/),[LAWST](https://lawst.com/), [LEWT](http://www.workroom-productions.com/LEWT.html), [MEWT](https://mewtblog.wordpress.com/about/), [NWEWT](https://nwewt.wordpress.com/about/), [SWET](https://www.meetup.com/Swedish-Workshop-on-Exploratory-Testing/), TWST,and [WOPR](https://www.performance-workshop.org)  for sharing their approaches, advice, and personal experience publicly and privately.
 
-We also thank our reviewers for their insightful and helpful comments on the first versions of this guide: Fiona Charles, Lee Hawkins, Duncan Nisbet, Adrian Segar, Karlo Smid, and Elizabeth Zagroba.
+We also thank our reviewers for their insightful and helpful comments on the first versions of this guide: Fiona Charles, Lee Hawkins, Duncan Nisbet, Adrian Segar, Karlo Smid, Neil Younger, and Elizabeth Zagroba.
 
 <h3 id="further-reading">Further Reading</h3>
 
-
 More depth and alternative perspectives on pretty much all of the material in this guide can be found in the following links:
-
-
 
 *   [Organising peer conferences](http://erik.brickarp.se/2017/04/peer-conferences-part-1.html) (Erik Brickarp)
 *   [Ten Simple Rules for Organizing an Unconference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4310607/) (Aidan Budd et al)
