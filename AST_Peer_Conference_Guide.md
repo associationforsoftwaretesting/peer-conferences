@@ -542,7 +542,6 @@ If you are paying for a room and other services, nominate someone on your team t
 
 <h3 id="introduction">Introduction</h3>
 
-
 Someone will be late so schedule tea and biscuits for 15 or 20 minutes before the real action begins. 
 
 Have some kind of introduction where you can set the tone, remind everyone why they’re there, the kind of conference you’re expecting, that there’s a code of conduct, talk about fire exits, reinforce the message that you’re all peers, and so on.
@@ -554,7 +553,6 @@ If you’re using facilitation, explain how it’ll work and why you’re using 
 Consider having some kind of [icebreaker exercise](https://en.wikipedia.org/wiki/Icebreaker_(facilitation)). Don’t groan! You’ve got a roomful of people who don’t all know each other and spending five minutes practicing each other’s names, introducing themselves in a couple of sentences, and learning a little about each other’s personalities is a good investment in the rapport that will make later conversations smoother. One of our reviewers recommends [human spectrographs](http://www.conferencesthatwork.com/wp-content/uploads/2015/06/Chapter-33-Human-spectrograms_s.pdf) for this.
 
 <h3 id="agenda">Agenda</h3>
-
 
 How do you want your day to be broken up? Should it run in a see-how-we-feel kind of way? Do your participants need to know when it wraps up so that they can organise their trips home? Do you want everyone who prepared a presentation to be able to give it?
 
@@ -587,10 +585,9 @@ Getting conversation to flow in a (large group) is a skill. If you have big pers
 
 You should be clear up front what the facilitator is doing. Are they introducing talks, timing talks, announcing breaks, timing breaks, something else?
 
-Facilitation is a huge topic. As a starting point, we recommend[ Paul Holland on facilitation](http://testingthoughts.com/blog/28).
+Facilitation is a huge topic. As a starting point, we recommend [Paul Holland on facilitation](http://testingthoughts.com/blog/28).
 
 <h2 id="afterwards">Afterwards</h2>
-
 
 _Congratulations_! It’s over and although it wasn’t perfect you can and should be proud of yourself. You have provided a bunch of motivated people with an opportunity to come together for learning, to make contacts, and to have fun. That’s valuable. Well done.
 
