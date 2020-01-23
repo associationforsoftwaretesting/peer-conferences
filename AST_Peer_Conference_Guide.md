@@ -79,8 +79,6 @@ We like that kind of framing as it provides room for many local variants, althou
 
 Your conference will not be the same as anyone else’s but we’d highlight a couple of things that we think are crucial for any peer conference:
 
-
-
 *   Treat all participants as peers, whatever their level of experience or expertise.
 *   Publish, and abide by, an ethical code of conduct. 
 *   Remember that there is no best practice, only good practices in context.
@@ -97,17 +95,13 @@ If you’re confident that you know what you want and are just looking for a bas
 
 <h2 id="setting-up-a-conference">Setting up a Conference</h2>
 
-
 <h3 id="getting-off-the-ground">Getting off the Ground</h3>
-
 
 Start with the _why_. Say what you want to achieve with your conference and then base other decisions on it. For example, [CEWT](https://cewtblog.blogspot.com/)’s mission statement is this:
 
 _CEWT is an exploratory peer workshop. We take the view that discussions are more interesting than lectures. We enjoy diverse ideas, and limit some activities in order to work with more ideas. \
  \
 CEWT is about:_
-
-
 
 *   _Cambridge: the local tester community._
 *   _Exploratory: beyond the topic there's no agenda._
@@ -122,12 +116,9 @@ Start lean. Fewer people to organise means less organisation, more flexibility, 
 
 <h3 id="the-organising-team">The Organising Team</h3>
 
-
 More organisers might mean that the organisational load is spread and there’s a bigger pool of ideas. But more organisers require more organisation themselves and can potentially dilute the vision for your conference. So, as with the other considerations in this guide you need to consider what’s best for your aims.
 
 There are some common roles in peer conferences, such as:
-
-
 
 *   Facilitator: manages timing and discussions on the day.
 *   Organiser: takes care of logistics, contact with participants, etc.
@@ -139,7 +130,6 @@ You might choose to merge or share some of these, rotate them between members of
 
 <h3 id="sharing-information">Sharing Information</h3>
 
-
 Set up some way to share information with anyone who is helping with the organisation. One of our reviewers even shares details with their venue. 
 
 [Google Drive](https://www.google.com/drive/) is a cheap and convenient way to store and collaboration on work. A basic spreadsheet there is enough to hold current status, checklists, and remaining tasks. [Trello](https://trello.com/pricing), [Slack](https://slack.com/intl/en-gb/pricing), and [Basecamp](https://basecamp.com/how-it-works) also all offer a free plan for collaborative tools at the time of writing.
@@ -147,7 +137,6 @@ Set up some way to share information with anyone who is helping with the organis
 Find what works for you. The tooling is much less important than easy access to shared status, timings, and context for your organising team.
 
 <h3 id="commitment">Commitment</h3>
-
 
 Think about how often you plan to run your event. Then think _very carefully_ about whether you have the time and energy for that. Pro tip: you probably don’t; it’s easy to be over-optimistic at this stage.
 
@@ -161,13 +150,11 @@ Perhaps take a look at the frequency of some of the [longer-running peer confere
 
 <h3 id="code-of-conduct">Code of Conduct</h3>
 
-
 It’s imperative that you have a code of conduct which makes participants feel safe to be present and to share their ideas. Decide on your code in advance, make it visible in advance, and have copies of it available at your events.
 
 Examples: [the CAST Code of Conduct](https://www.associationforsoftwaretesting.org/about/governance/cast-code-of-conduct/) and a template [Conference Code of Conduct](https://confcodeofconduct.com/).
 
 <h3 id="diversity">Diversity</h3>
-
 
 The diversity of any speakers and your participants is important to consider. Your conference will be better for having voices from different backgrounds, with different experiences, and different perspectives. 
 
@@ -185,7 +172,6 @@ Examples: [O’Reilly’s diversity statement](https://www.oreilly.com/diversity
 
 <h3 id="dissemination">Dissemination</h3>
 
-
 What is your policy on sharing information presented at your conference?
 
 Some conferences have a policy that says it’s the participants’ responsibility to share only shareable material. _Anything_ stated at the conference can be repeated by the participants in any context. If you do this, it must be communicated clearly at the point participants sign up and again on the day.
@@ -197,7 +183,6 @@ How do you feel about photos and social media during the conference? If you want
 Some of your participants will expect that you will share speaker slide decks afterwards. Are you prepared to do that? It’s certainly a nice thing to do, but it’s more time and hassle for you. 
 
 <h3 id="communication">Communication</h3>
-
 
 The organisers will want to [communicate within each other](#sharing-information). (If they don’t, _you are sunk already_.) Something convenient and informal will help you to keep momentum alongside your busy life. Email, phone, text, and occasional meetings (or a mixture) can all work fine. 
 
@@ -211,7 +196,6 @@ If it goes well, you might want to communicate as a group of participants before
 
 <h3 id="branding">Branding</h3>
 
-
 Consistent branding, done well, can make you look a lot more professional. However, it’s worth considering who it is for and how much energy it merits. 
 
 As a small conference you might have a website or blog, some social media accounts, email, and perhaps a handful of slide decks. Do they really need branding?  
@@ -222,7 +206,6 @@ On the other hand, if you think that branding will be important to help you get 
 
 <h2 id="planning-an-event">Planning an Event</h2>
 
-
 So, you’ve decided why you’re doing it, you’ve got your organising team together, and you’ve worked out the basic shape of the event that you want to hold. Well done. Pat yourself on the back! Then take a deep breath because the hard work is about to start ...
 
 In this section we’ll cover the kinds of things you’ll want to consider for the day (or days, if you’re really ambitious) of the conference itself. Be prepared to go through them several times because they can influence each other.
@@ -232,7 +215,6 @@ For example, the number of participants you plan for will affect the size of ven
 It’s best if you can be realistic and honest with yourself about the most important things. If keeping costs down is key to encourage attendance then perhaps try to find a free room in a local company office and size the event to fit it.
 
 <h3 id="number-of-people">Number of People</h3>
-
 
 Think carefully about the number of people you want at your event. It can dramatically affect the vibe, the momentum, and the kinds of interactions you’ll have. 
 
@@ -246,14 +228,11 @@ For conferences that are more traditional, with presenters and an audience, wher
 
 <h3 id="participants">Participants</h3>
 
-
 The participants are _key_ to the success of your peer conference. Getting [a good mix](#diversity) of the right kind of opinions, experience, personality, interests and motivations will make your conversations fly.
 
 But it’s also hard to arrange that mix in advance. _Really, really_ hard. And there’s much that you can’t control, so don’t try to micro-manage it but instead concentrate on setting up an environment in which it can manage itself.
 
 The first step is to think about what kinds of participants you’re after, and what kinds of factors will attract them. For example:
-
-
 
 *   Do you want an international speaker? Travel expenses might be key
 *   Do you want local participants? Not clashing with local events might be key.
@@ -268,8 +247,6 @@ A simple approach to accepting participants tends to mean less work. For example
 On the other hand, completely open and uncurated may mean that you don’t get the kinds of participants that you think you need to achieve your conference aims.
 
 Some potential approaches:
-
-
 
 *   Open call, first-come-first-served, with some limit on number of participants.
 *   Restricted call, e.g. to testers from the local area.
@@ -288,20 +265,17 @@ Finally, expect a drop-out rate of up to 30%, including some on the week of the 
 
 <h4 id="reserves">Reserves</h4>
 
-
 If things go well you’ll be oversubscribed initially. (You _are_ starting small, aren’t you?) Put anyone that you don’t have space for or didn’t meet your selection criteria onto a reserve list and tell them that you’re doing it.
 
 Letting them know there’s still a chance for them is both a common courtesy and also increases the possibility that they’ll maintain some availability for the event. If they say they don’t want to be a reserve then remove them from the list so that you don’t accidentally contact them later. 
 
 <h3 id="format">Format</h3>
 
-
 Hopefully, when you were [getting off the ground ](#getting-off-the-ground)you had some idea about the kind of peer conference you want to organise and that included the way you want participants to interact.
 
 If not, now is the time to decide, although note that you are not obliged to have the same format throughout the day. You might have facilitated discussion around presentations, followed by [lean coffee](http://leancoffee.org/), and then [lightning talks](https://en.wikipedia.org/wiki/Lightning_talk) for sharing takeaways, for example.
 
 <h3 id="theme">Theme</h3>
-
 
 A conference theme gives potential participants a way to judge whether they feel they have something to contribute to your conference and provides inspiration for the conversations that you will have. 
 
@@ -335,7 +309,6 @@ We propose to debate the motion that it is possible to motivate personnel to per
 
 <h3 id="side-events">Side Events</h3>
 
-
 At multi-day conferences, or those where people are travelling and staying overnight, it’s reasonably traditional to arrange a meal out for the participants. 
 
 This doesn’t mean that you have to do it, of course. If you do want to, for small events, it’s enough to simply book a table at a local restaurant for anyone who wants to come. 
@@ -352,7 +325,6 @@ Last thing: if you’re arranging anything and expect people to pay themselves, 
 
 <h3 id="venue">Venue</h3>
 
-
 It goes without saying that the kind of conference you’re organising will influence the venue you choose. As we’ve already said, though, the venue itself may have an effect on the kind of conference you’re able to put on. 
 
 This section runs through some of the considerations. It’s worth bearing in mind that, while the venue _is_ important, its function is to facilitate the conversations you want to have. So do have some minimum standards (no cockroaches, not too smelly, a roof) but don’t get carried away with trimmings (branded pencils, executive seating, a vaulted roof).
@@ -360,7 +332,6 @@ This section runs through some of the considerations. It’s worth bearing in mi
 If you’re getting participants from out of town, or running a multi-day event, you might consider a venue that can also provide accommodation. 
 
 <h4 id="room-layout">Room Layout</h4>
-
 
 For group discussions you probably want a round-table or U-shaped layout. For a more traditional conference it’ll be theatre or classroom. For an unconference you’ll need plenty of space. 
 
@@ -371,7 +342,6 @@ If you are planning [food](#food), you’ll need somewhere to eat it. Again, ano
 A short primer on meeting room layouts can be found on [Conference.place](http://www.conference.place/tips/meeting-room-setup-styles/).
 
 <h4 id="host">Host</h4>
-
 
 You don’t necessarily have to pay for a commercial venue. Maybe a local company will lend you a room for the day. It’s worth cultivating local contacts at meetups, particularly at meetups hosted _at local companies_.  You might need to give up a place or two at the conference in return for the room and food. If the participants are people who would’ve come anyway, it’s a definite win.
 
@@ -385,7 +355,6 @@ If you’re using a local company office there may be restrictions on where part
 
 <h4 id="food">Food</h4>
 
-
 As with the venue, food is important up to a point. You don’t want to offer people left-overs from last night’s dinner to save a few quid, but neither does it need to be Cordon Bleu catering. 
 
 What is important is to make sure that there’s _enough_ food, and that it caters to everyone. When you are accepting participants for your conference be sure to ask them for their dietary requirements and check that the venue can deal with them: one of our reviewers had a vegan participant who ended up eating just roast vegetables one evening.
@@ -393,7 +362,6 @@ What is important is to make sure that there’s _enough_ food, and that it cate
 Don’t forget to have some drinks and snacks when people arrive at the event, and during breaks. These are important for refreshment, to keep energy levels up, and to be a catalyst for groups to form and continue discussions in the breaks.
 
 <h4 id="equipment">Equipment</h4>
-
 
 How much time have you wasted in meetings waiting for someone to find something that connects something to something else so that they can show something? Don’t be that person! If you’re expecting or permitting slides, think about your audio-visual equipment requirements.
 
@@ -405,13 +373,11 @@ Have you considered whether you need wi-fi? At a local company there will often 
 
 <h4 id="accessibility">Accessibility</h4>
 
-
 That 16th-century castle has a brilliant conference centre, an amazing vibe, and it’s available on your preferred date. Yay! It’s also at the top of a steep hill, up a road with no pavement, there’s 27 steps to the front door, and car parking for two cars, neither of them available to guests. Boo!
 
 When you are accepting participants to your conference, ask whether they have any particular needs with respect to accessibility and then do your best to accommodate genuine and reasonable requests without question. If you do need to ask for clarification or are unable to fulfil a request, be sensitive and sensible in your communication, and try to offer alternatives that show you are doing your best to help the participant to attend.
 
 <h4 id="travel">Travel</h4>
-
 
 If participants are travelling to your event, provide them with some recommendations for ways to get around, places to stay, car parking, and local eateries.
 
@@ -421,17 +387,13 @@ If you’re using a commercial venue then you might be able to negotiate a disco
 
 <h4 id="breaks">Breaks</h4>
 
-
 Breaks are important. People need time to process the material being discussed, to pick up side-threads with others, to think of new arguments for points they want to make, to replenish their energy. Organisers need breaks to get things set up, sort out logistics, and allow the schedule to get back into step when it’s running long.
 
 Breaks risk losing momentum, however, so tend to the shorter side but also don’t be afraid to suggest ad hoc breaks as you go.
 
 <h3 id="costs">Costs</h3>
 
-
 It is possible to run successful peer conferences on a shoestring budget. Here’s one formula that can work, under the right conditions:
-
-
 
 *   Keep your event small.
 *   Keep your event short.
@@ -444,8 +406,6 @@ A simple spreadsheet will be enough to begin with, but you really should keep tr
 
 How can you cover costs? There’s some obvious options:
 
-
-
 *   Attendance fee for participants
 *   Sponsorship
 *   Grants
@@ -457,7 +417,6 @@ Early in your peer conference organising career we’d recommend planning your e
 
 <h3 id="lead-time">Lead Time</h3>
 
-
 How much time will it take you to organise your conference? Unless you’ve been doing this for a while and have all of your process and contacts ready to go, it’s probably at least a couple of months. If you need to raise funding from external sources it could be much longer, taking into account the time needed to prepare a pitch and negotiate terms. One of our reviewers starts sponsorship talks a year before their event.
 
 How far in advance will your potential participants want to know about your event so that they can make arrangements? The distance you expect people to travel is relevant here: early-booked flights are generally cheaper.
@@ -465,7 +424,6 @@ How far in advance will your potential participants want to know about your even
 Once you’ve set and publicised a date it’s going to be a chore to change it, so give yourself a bit of slack and estimate slightly longer than you think you’ll need for all the arranging. 
 
 <h3 id="schedule-and-status">Schedule and Status</h3>
-
 
 In your organising team’s [shared space ](#sharing-information)create some kind of schedule. There’s an [example ](#schedule)in the Appendices. Again, you need to allow all of the organisers to see the status of things and know what tasks are coming up.
 
@@ -477,7 +435,6 @@ Groom your schedule by adding new tasks to it as you encounter them. Why? Becaus
 
 <h3 id="privacy">Privacy</h3>
 
-
 Although a small group running a peer conference on a voluntary basis isn’t likely to be subject to regulations such as [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation), you should definitely make your best efforts to be careful with any data you collect from your participants. 
 
 If you want to take photos or videos on the day of your event, you should also check with participants whether they’re OK with that. This is particularly true if anyone is intending to share photos on social media.
@@ -485,7 +442,6 @@ If you want to take photos or videos on the day of your event, you should also c
 Use Bcc on group emails so that the addresses of participants are not shared without their consent. 
 
 <h3 id="communication">Communication</h3>
-
 
 You can definitely over-communicate but it’s worse to not communicate enough. 
 
@@ -497,13 +453,11 @@ Don’t send the same communication several times because people will recognise 
 
 <h3 id="publicising">Publicity</h3>
 
-
 Who are your people? Go where they are to shout about your event. Online that might be Twitter or Facebook or relevant Slack channels. In real life it might be local offices or meetups.
 
 Some industries will have conference listing sites (in ours there’s [Software Testing Conferences](https://testingconferences.org/)) so seek them out and get yours listed on any that you think will drive participants to you.
 
 <h2 id="running-an-event">Running an Event</h2>
-
 
 How long ago was it that you had the idea to run a peer conference? How much stress has there been since then? Wow. You thought it would be easier than this, didn’t you? It can be, once you apply the lessons you’ve learned this time round.
 
@@ -513,7 +467,6 @@ So, take a deep breath, plaster a broad smile across your face, pick up your che
 
 <h3 id="relax">Relax</h3>
 
-
 Again, yes, _relax_. Something will probably burst into flames today at some point, but you will deal with it. A speaker doesn’t turn up? No problem, you’ll shuffle the running order as you go. The food comes without a vegetarian option? No problem, you’ll ask someone with a car to shoot up the road to the shops. The power goes out leaving you in darkness? No problem, you’ll move to the room with the biggest windows and run a lean coffee session until electricity is restored.
 
 The participants are your peers. In many cases they will be giving up their own time to be there. They know that you are making sacrifices for them and they want you to succeed.
@@ -521,7 +474,6 @@ The participants are your peers. In many cases they will be giving up their own 
 _You’ve got this._
 
 <h3 id="safe-space">Safe Space</h3>
-
 
 Sharing ideas is only part of the success of your conference. Creating an environment in which people feel comfortable to share their perspectives is also very important. 
 
@@ -532,7 +484,6 @@ It’s the responsibility of the organising team to find ways to help the partic
 Facilitation is key, your code of conduct is key, making a good atmosphere is key. 
 
 <h3 id="on-the-day-logistics">On the Day Logistics</h3>
-
 
 Ideally you will nominate a particular person to do housekeeping on the day. This helps to avoid confusion about the status of any particular task. 
 
@@ -564,7 +515,6 @@ What you do is completely up to you but, whatever your style, make it clear to t
 
 <h3 id="energy">Energy</h3>
 
-
 Someone from the organising team should keep an eye on the energy levels in the room and be actively looking to change things up when they drop. Even if you have an agenda, don’t be afraid to tweak it.
 
 You _can_ say something like “I feel we’re getting to the end of this topic, shall we break 10 minutes early for an extended tea break? Who fancies a walk around the block?”
@@ -573,11 +523,9 @@ Provide spaces for conversations to happen outside of the conference room. If yo
 
 <h3 id="note-taking">Note-taking</h3>
 
-
 Providing a public place where people can record thoughts during the day can help to build up a topic list for later conversation, a retrospective, or a write-up. A whiteboard or a wall with sticky notes are simple and do just fine.
 
 <h3 id="facilitation">Facilitation</h3>
-
 
 Facilitation may not be needed with the group and format that you have. You’ll need to take a judgement on that for yourself. It can certainly contribute to making the room a [safe space](#bookmark=id.2m1207ab2le1) and increase the range of voices heard.
 
