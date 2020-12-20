@@ -61,6 +61,7 @@
     &nbsp;&nbsp; [Licensing](#licensing)
 
 [Appendices](#appendices)\
+    &nbsp;&nbsp; [Remote Peer Conferences](#remote)\
     &nbsp;&nbsp; [Schedule](#schedule)\
     &nbsp;&nbsp; [Standard Emails](#standard-emails)\
         &nbsp;&nbsp;&nbsp;&nbsp; [You’re In!](#you’re-in)\
@@ -93,6 +94,8 @@ Have fun and let us know how you got on!
 [The Association for Software Testing](#the-association-for-software-testing) is an organisation dedicated to advancing the craft of software testing, but this guide is not specific to that area. We've deliberarately written it to be applicable whatever your topic.
 
 You can read this guide from start to finish to get an overview of the kinds of things you might want to consider for your conference. It might seem like there’s a lot! Don’t worry, it’s definitely doable — we know, because we’ve done it! 
+
+The guide has been written to favour in-person conferences but the [Remote Peer Conferences](#remote) appendix talks about factors we've had to consider when running your event by video.
 
 If you’re confident that you know what you want and are just looking for a basic checklist of stuff to remember, skip to the [Appendices](#appendices) which give that, with links back to details in the main text.
 
@@ -609,6 +612,33 @@ More depth and alternative perspectives on pretty much all of the material in th
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 <h2 id="appendices">Appendices</h2>
+
+
+<h3 id="remote">Remote Peer Conferences</h3>
+
+The first version of this guide was written before the [SARS-CoV-2 global pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) of 2020 and so focused heavily on in-person conferences. Pretty much all of our expertise is in this format and, other things being equal, we'd favour face-to-face over remote given the choice. However, with the advent of physical distancing, travel restrictions, and lockdowns, we have experimented with video conferencing for peer conferences and found that it can be enjoyable and successful, and that much of the guide still holds. 
+
+In some respects organisational concerns are simplified without travel, accommodation, and catering to worry about but, and it's an important but, we're conscious of how hard it is to get the vibe right during a lengthy video meeting with more than a couple of participants. This appendix records factors that we've found it useful to consider when running remote, so far.
+
+Opening your conference up to remote participation can mean that time zones become an issue. In addition to choosing an appropriate duration for your conference, you'll now also need to find a start and end time that are acceptable for the participants, wherever in the world they are. Also, when sharing times with people, don't forget to say what time zone you're talking about and be consistent in all your communications.
+
+Deciding on the number of participants is always a little tricky. We decided to err on the lower side to reduce the risk of participants who aren't currently speaking from zoning out or being distracted by all the other windows they have open. As with an in-person conference, the setup you choose will make a difference here; there's less reason to be worried about the numbers if your conference is set up more like a webinar than a group convesation.
+
+Breaks are crucial, both for health reasons and to keep energy levels high. In one-day events we aimed for ten minutes away from the screen every hour and a longer break at the half-way point. ([UK government advice](https://www.hse.gov.uk/msd/dse/work-routine.htm) is to take more shorter breaks over fewer longer breaks.) Letting the participants know the schedule is important too; they may have domestic stuff to schedule around your conference.
+
+Also crucial is the software you'll use for your conference. Again, your format will play a part in your choice. For the traditional peer conference setup, with a small group presenting and conversing on the same topic for an extended period, we found that our requirements were:
+
+* software that could stay on all day
+* host able to mute and unmute participants
+* participants able to share their screens
+* participants able to see all other participants at all times
+* global, multi-user, and 1-1 chat
+* multiple channels for chat 
+* threads in chat
+
+This essentially breaks down into two communication modes: video and text. There are many choices for video conferencing tools and, unless you have very specific requirements, your selection may well depend on what's convenient for you. On the text side, we've tended to want rich communication channels to manage facilitation, allow organisers to talk outside of the main conversation, and to permit side-conversations by participants. It may be worth considering separate applications for chat and video.
+
+At Association for Software Testing events our [favoured mode of facilitation](https://associationforsoftwaretesting.org/conference/) uses [K-cards](https://testingthoughts.com/blog/26). We have found that its possible to reproduce this style of facilitation remotely and the way we've gone about it is described in [A Remote Possibility](https://qahiccupps.blogspot.com/2020/12/a-remote-possibility.html). 
 
 
 <h3 id="schedule">Schedule</h3>
