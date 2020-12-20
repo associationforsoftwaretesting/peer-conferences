@@ -63,7 +63,7 @@
 [Appendices](#appendices)\
     &nbsp;&nbsp; [Schedule](#schedule)\
     &nbsp;&nbsp; [Standard Emails](#standard-emails)\
-    &nbsp;&nbsp; [You’re In!](#you’re-in)\
+        &nbsp;&nbsp;&nbsp;&nbsp; [You’re In!](#you’re-in)\
         &nbsp;&nbsp;&nbsp;&nbsp; [Speakers](#speakers)\
         &nbsp;&nbsp;&nbsp;&nbsp; [Didn’t Make It](#didn’t-make-it)\
     &nbsp;&nbsp; [Checklists](#checklists)\
