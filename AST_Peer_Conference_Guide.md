@@ -606,6 +606,7 @@ More depth and alternative perspectives on pretty much all of the material in th
 *   [Organising LEWT](http://workroomprds.github.io/LEWT/) (James Lyndsay)
 *   [About Peer Conferences](https://www.conferencesthatwork.com/index.php/about-peer-conferences/) (Adrian Segar)
 *   [Survey of peer conference organisers](https://qahiccupps.blogspot.com/2015/07/trying-to-be-cewt.html) (James Thomas)
+*   [An Experience Report Guideline](https://dewt.wordpress.com/2016/02/25/an-experience-report-guideline/) (Ruud Cox, Joris Meerts)
 
 <h3 id="licensing">Licensing</h3>
 
